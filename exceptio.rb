@@ -17,4 +17,4 @@ def raise_and_rescue
     end     
     puts 'After the begin block.'     
   end     
-  raise_and_rescue    
+  raise_and_rescue   
