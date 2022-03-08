@@ -19,3 +19,16 @@ puts 'My first name is #{first_name} and my last name #{last_name}'#not work
 #Conversiom
 10.to_s.class 
 
+full_name.length
+full_name.reverse
+full_name.capitalize
+full "".empty?
+full "".nil?
+
+
+
+x = "Welcome to Ruby Language" 
+x.sub("Ruby","Javascript")
+
+
+
