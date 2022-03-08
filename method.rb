@@ -6,8 +6,13 @@ end
 mohit
 
 #Function With PARAMETERS
-def welcome(name,lastname)
+def mohit(name,lastname)
     puts "Welcome #{name} #{lastname}"
 end
 
-welcome("Aman","Goad")
+mohit("Aman","Goad")
+
+def say_hello(thing_to_say)
+    puts thing_to_say
+end
+say_hello "Hello Aman"
